@@ -1,0 +1,8 @@
+D:\C#folder\HOMEWORK22.2.2023\sumEqualNumbers\bin\Debug\sumEqualNumbers.exe.config
+D:\C#folder\HOMEWORK22.2.2023\sumEqualNumbers\bin\Debug\sumEqualNumbers.exe
+D:\C#folder\HOMEWORK22.2.2023\sumEqualNumbers\bin\Debug\sumEqualNumbers.pdb
+D:\C#folder\HOMEWORK22.2.2023\sumEqualNumbers\obj\Debug\sumEqualNumbers.csproj.AssemblyReference.cache
+D:\C#folder\HOMEWORK22.2.2023\sumEqualNumbers\obj\Debug\sumEqualNumbers.csproj.SuggestedBindingRedirects.cache
+D:\C#folder\HOMEWORK22.2.2023\sumEqualNumbers\obj\Debug\sumEqualNumbers.csproj.CoreCompileInputs.cache
+D:\C#folder\HOMEWORK22.2.2023\sumEqualNumbers\obj\Debug\sumEqualNumbers.exe
+D:\C#folder\HOMEWORK22.2.2023\sumEqualNumbers\obj\Debug\sumEqualNumbers.pdb

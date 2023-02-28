@@ -1,0 +1,8 @@
+D:\C#folder\HOMEWORK22.2.2023\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+D:\C#folder\HOMEWORK22.2.2023\Cars\obj\Debug\Cars.csproj.SuggestedBindingRedirects.cache
+D:\C#folder\HOMEWORK22.2.2023\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+D:\C#folder\HOMEWORK22.2.2023\Cars\bin\Debug\Cars.exe.config
+D:\C#folder\HOMEWORK22.2.2023\Cars\bin\Debug\Cars.exe
+D:\C#folder\HOMEWORK22.2.2023\Cars\bin\Debug\Cars.pdb
+D:\C#folder\HOMEWORK22.2.2023\Cars\obj\Debug\Cars.exe
+D:\C#folder\HOMEWORK22.2.2023\Cars\obj\Debug\Cars.pdb

@@ -1,0 +1,8 @@
+D:\C#folder\HOMEWORK22.2.2023\gaussTrick\bin\Debug\gaussTrick.exe.config
+D:\C#folder\HOMEWORK22.2.2023\gaussTrick\bin\Debug\gaussTrick.exe
+D:\C#folder\HOMEWORK22.2.2023\gaussTrick\bin\Debug\gaussTrick.pdb
+D:\C#folder\HOMEWORK22.2.2023\gaussTrick\obj\Debug\gaussTrick.csproj.AssemblyReference.cache
+D:\C#folder\HOMEWORK22.2.2023\gaussTrick\obj\Debug\gaussTrick.csproj.SuggestedBindingRedirects.cache
+D:\C#folder\HOMEWORK22.2.2023\gaussTrick\obj\Debug\gaussTrick.csproj.CoreCompileInputs.cache
+D:\C#folder\HOMEWORK22.2.2023\gaussTrick\obj\Debug\gaussTrick.exe
+D:\C#folder\HOMEWORK22.2.2023\gaussTrick\obj\Debug\gaussTrick.pdb
